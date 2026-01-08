@@ -1,0 +1,1 @@
+# ma-crossover-auto-update-strategy
